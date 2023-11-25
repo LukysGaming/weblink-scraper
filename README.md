@@ -1,6 +1,3 @@
-Certainly! Here's a simple template for a README file on GitHub:
-
-```markdown
 # Web Scraper UwU
 
 ## Description
