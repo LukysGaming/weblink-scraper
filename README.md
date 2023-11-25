@@ -2,7 +2,7 @@
 
 ## Description
 
-This Python script allows you to extract links from a webpage using BeautifulSoup and Requests.
+This (probably overcomplicated) link scraper allows you to extract links from a webpage using BeautifulSoup and Requests.
 It has some basic user error prevention
 
 ## Installation
